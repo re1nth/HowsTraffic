@@ -1,0 +1,2701 @@
+Timestamp,Mode,Source,Destination,Duration (mins)
+2025-03-23 19:27:35,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:27:35,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:27:35,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:27:35,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:27:35,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:27:35,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:27:35,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:27:35,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:27:35,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:27:35,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:27:35,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:27:35,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:27:35,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:27:35,TRANSIT,Uppal Stadium,JNTU Kukatpally,69
+2025-03-23 19:27:35,TRANSIT,Uppal Stadium,Nanakramguda,112
+2025-03-23 19:27:35,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:27:35,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:27:35,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 19:27:35,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 19:27:35,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 19:27:35,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:27:35,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:27:35,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:27:35,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:27:35,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:27:35,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:27:35,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:27:35,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:27:35,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:27:35,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:28:37,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:28:37,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:28:37,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:28:37,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:28:37,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:28:37,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:28:37,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:28:37,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:28:37,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:28:37,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:28:37,TRANSIT,Uppal Stadium,Nanakramguda,112
+2025-03-23 19:28:37,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:28:37,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:28:37,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:28:37,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 19:28:37,TRANSIT,Uppal Stadium,JNTU Kukatpally,69
+2025-03-23 19:28:37,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:28:37,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 19:28:37,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:28:37,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 19:28:37,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:28:37,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:28:37,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:28:37,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:28:37,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:28:37,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:28:37,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:28:37,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:28:37,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:28:37,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:29:38,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:29:38,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:29:38,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:29:38,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:29:38,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:29:38,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:29:38,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:29:38,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:29:38,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:29:38,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:29:38,TRANSIT,Uppal Stadium,Nanakramguda,112
+2025-03-23 19:29:38,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:29:38,TRANSIT,Uppal Stadium,JNTU Kukatpally,69
+2025-03-23 19:29:38,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:29:38,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 19:29:38,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 19:29:38,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:29:38,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:29:38,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:29:38,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 19:29:38,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:29:38,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:29:38,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:29:38,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:29:38,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:29:38,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:29:38,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:29:38,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:29:38,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:29:38,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:30:39,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:30:39,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:30:39,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:30:39,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:30:39,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:30:39,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:30:39,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:30:39,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:30:39,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:30:39,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:30:39,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 19:30:39,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:30:39,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:30:39,TRANSIT,Uppal Stadium,Ameerpet,39
+2025-03-23 19:30:39,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:30:39,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 19:30:39,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 19:30:39,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 19:30:39,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:30:39,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 19:30:39,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:30:39,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:30:39,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:30:39,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:30:39,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:30:39,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:30:39,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:30:39,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:30:39,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:30:39,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:31:41,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:31:41,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:31:41,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:31:41,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:31:41,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:31:41,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:31:41,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:31:41,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:31:41,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:31:41,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:31:41,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 19:31:41,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:31:41,TRANSIT,Uppal Stadium,Ameerpet,39
+2025-03-23 19:31:41,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:31:41,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 19:31:41,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 19:31:41,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:31:41,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 19:31:41,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:31:41,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 19:31:41,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:31:41,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:31:41,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:31:41,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:31:41,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:31:41,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:31:41,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:31:41,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:31:41,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:31:41,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:32:42,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:32:42,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:32:42,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:32:42,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:32:42,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:32:42,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:32:42,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:32:42,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:32:42,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:32:42,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:32:42,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:32:42,TRANSIT,Uppal Stadium,Ameerpet,39
+2025-03-23 19:32:42,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:32:42,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 19:32:42,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 19:32:42,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:32:42,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:32:42,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 19:32:42,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 19:32:42,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 19:32:42,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:32:42,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:32:42,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:32:42,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:32:42,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:32:42,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:32:42,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:32:42,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:32:42,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:32:42,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:33:43,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:33:43,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:33:43,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:33:43,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:33:43,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:33:43,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:33:43,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:33:43,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:33:43,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:33:43,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:33:43,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:33:43,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:33:43,TRANSIT,Uppal Stadium,Khairatabad,61
+2025-03-23 19:33:43,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:33:43,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 19:33:43,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 19:33:43,TRANSIT,Uppal Stadium,Punjagutta,41
+2025-03-23 19:33:43,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:33:43,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:33:43,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 19:33:43,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:33:43,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:33:43,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:33:43,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:33:43,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:33:43,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:33:43,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:33:43,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:33:43,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:33:43,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:34:45,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:34:45,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:34:45,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:34:45,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:34:45,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:34:45,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:34:45,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:34:45,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:34:45,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:34:45,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:34:45,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:34:45,TRANSIT,Uppal Stadium,Punjagutta,41
+2025-03-23 19:34:45,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:34:45,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 19:34:45,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:34:45,TRANSIT,Uppal Stadium,Khairatabad,61
+2025-03-23 19:34:45,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:34:45,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 19:34:45,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:34:45,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 19:34:45,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:34:45,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:34:45,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:34:45,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:34:45,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:34:45,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:34:45,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:34:45,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:34:45,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:34:45,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:35:46,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:35:46,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:35:46,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:35:46,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:35:46,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:35:46,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:35:46,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:35:46,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:35:46,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:35:46,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:35:46,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:35:46,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:35:46,TRANSIT,Uppal Stadium,Khairatabad,61
+2025-03-23 19:35:46,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 19:35:46,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 19:35:46,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:35:46,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:35:46,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:35:46,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 19:35:46,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 19:35:46,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:35:46,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:35:46,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:35:46,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:35:46,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:35:46,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:35:46,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:35:46,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:35:46,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:35:46,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:36:47,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:36:47,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:36:47,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:36:47,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:36:47,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:36:47,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:36:47,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:36:47,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:36:47,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:36:47,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:36:47,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:36:47,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:36:47,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 19:36:47,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:36:47,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:36:47,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 19:36:47,TRANSIT,Uppal Stadium,Khairatabad,61
+2025-03-23 19:36:47,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:36:47,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 19:36:47,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 19:36:47,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:36:47,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:36:47,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:36:47,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:36:47,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:36:47,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:36:47,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:36:47,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:36:47,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:36:47,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:37:48,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:37:48,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:37:48,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:37:48,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:37:48,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:37:48,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:37:48,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:37:48,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:37:48,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:37:48,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:37:48,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:37:48,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 19:37:48,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:37:48,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 19:37:48,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:37:48,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:37:48,TRANSIT,Uppal Stadium,Khairatabad,61
+2025-03-23 19:37:48,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:37:48,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 19:37:48,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 19:37:48,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:37:48,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:37:48,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:37:48,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:37:48,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:37:48,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:37:48,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:37:48,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:37:48,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:37:48,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:38:50,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:38:50,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:38:50,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:38:50,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:38:50,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:38:50,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:38:50,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:38:50,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:38:50,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:38:50,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:38:50,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:38:50,TRANSIT,Uppal Stadium,Khairatabad,61
+2025-03-23 19:38:50,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 19:38:50,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:38:50,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:38:50,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 19:38:50,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:38:50,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:38:50,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 19:38:50,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 19:38:50,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:38:50,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:38:50,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:38:50,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:38:50,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:38:50,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:38:50,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:38:50,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:38:50,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:38:50,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:39:51,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:39:51,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:39:51,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:39:51,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:39:51,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:39:51,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:39:51,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:39:51,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:39:51,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:39:51,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:39:51,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:39:51,TRANSIT,Uppal Stadium,Ameerpet,39
+2025-03-23 19:39:51,TRANSIT,Uppal Stadium,Punjagutta,40
+2025-03-23 19:39:51,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:39:51,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 19:39:51,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:39:51,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 19:39:51,TRANSIT,Uppal Stadium,Khairatabad,54
+2025-03-23 19:39:51,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:39:51,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 19:39:51,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:39:51,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:39:51,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:39:51,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:39:51,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:39:51,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:39:51,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:39:51,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:39:51,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:39:51,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:40:52,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:40:52,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:40:52,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:40:52,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:40:52,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:40:52,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:40:52,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:40:52,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:40:52,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:40:52,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:40:52,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:40:52,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:40:52,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:40:52,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 19:40:52,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:40:52,TRANSIT,Uppal Stadium,Nanakramguda,111
+2025-03-23 19:40:52,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 19:40:52,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:40:52,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 19:40:52,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 19:40:52,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:40:52,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:40:52,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:40:52,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:40:52,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:40:52,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:40:52,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:40:52,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:40:52,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:40:52,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:41:53,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:41:53,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:41:53,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:41:53,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:41:53,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:41:53,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:41:53,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:41:53,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:41:53,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:41:53,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:41:53,TRANSIT,Uppal Stadium,Nanakramguda,111
+2025-03-23 19:41:53,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:41:53,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:41:53,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:41:53,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:41:53,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:41:53,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 19:41:53,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 19:41:53,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 19:41:53,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 19:41:53,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:41:53,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:41:53,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:41:53,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:41:53,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:41:53,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:41:53,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:41:53,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:41:53,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:41:53,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:42:54,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:42:54,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:42:54,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:42:54,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:42:54,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:42:54,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:42:54,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:42:54,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:42:54,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:42:54,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:42:54,TRANSIT,Uppal Stadium,Nanakramguda,111
+2025-03-23 19:42:54,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 19:42:54,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:42:54,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 19:42:54,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:42:54,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:42:54,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 19:42:54,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:42:54,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:42:54,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 19:42:54,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:42:54,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:42:54,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:42:54,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:42:54,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:42:54,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:42:54,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:42:54,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:42:54,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:42:54,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:43:56,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:43:56,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:43:56,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:43:56,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:43:56,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:43:56,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:43:56,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:43:56,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:43:56,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:43:56,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:43:56,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:43:56,TRANSIT,Uppal Stadium,Nanakramguda,111
+2025-03-23 19:43:56,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:43:56,TRANSIT,Uppal Stadium,Khairatabad,55
+2025-03-23 19:43:56,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:43:56,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:43:56,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:43:56,TRANSIT,Uppal Stadium,Punjagutta,40
+2025-03-23 19:43:56,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 19:43:56,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 19:43:56,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:43:56,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:43:56,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:43:56,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:43:56,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:43:56,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:43:56,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:43:56,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:43:56,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:43:56,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:44:57,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:44:57,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:44:57,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:44:57,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:44:57,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:44:57,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:44:57,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:44:57,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:44:57,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:44:57,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:44:57,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:44:57,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:44:57,TRANSIT,Uppal Stadium,Khairatabad,55
+2025-03-23 19:44:57,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:44:57,TRANSIT,Uppal Stadium,Nanakramguda,111
+2025-03-23 19:44:57,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:44:57,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:44:57,TRANSIT,Uppal Stadium,Punjagutta,40
+2025-03-23 19:44:57,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 19:44:57,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 19:44:57,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:44:57,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:44:57,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:44:57,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:44:57,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:44:57,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:44:57,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:44:57,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:44:57,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:44:57,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:45:58,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:45:58,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:45:58,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:45:58,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:45:58,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:45:58,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:45:58,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:45:58,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:45:58,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:45:58,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:45:58,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:45:58,TRANSIT,Uppal Stadium,Khairatabad,55
+2025-03-23 19:45:58,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:45:58,TRANSIT,Uppal Stadium,Nanakramguda,111
+2025-03-23 19:45:58,TRANSIT,Uppal Stadium,Punjagutta,40
+2025-03-23 19:45:58,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:45:58,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:45:58,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:45:58,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 19:45:58,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 19:45:58,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:45:58,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:45:58,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:45:58,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:45:58,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:45:58,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:45:58,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:45:58,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:45:58,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:45:58,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:46:59,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:46:59,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:46:59,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:46:59,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:46:59,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:46:59,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:46:59,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:46:59,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:46:59,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:46:59,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:46:59,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:46:59,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:46:59,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:46:59,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:46:59,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 19:46:59,TRANSIT,Uppal Stadium,Punjagutta,40
+2025-03-23 19:46:59,TRANSIT,Uppal Stadium,Nanakramguda,111
+2025-03-23 19:46:59,TRANSIT,Uppal Stadium,Khairatabad,55
+2025-03-23 19:46:59,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:46:59,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 19:46:59,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:46:59,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:46:59,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:46:59,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:46:59,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:46:59,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:46:59,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:46:59,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:46:59,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:46:59,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:48:00,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:48:00,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:48:00,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:48:00,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:48:00,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:48:00,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:48:00,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:48:00,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:48:00,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:48:00,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:48:00,TRANSIT,Uppal Stadium,Nanakramguda,109
+2025-03-23 19:48:00,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:48:00,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:48:00,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 19:48:00,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:48:00,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:48:00,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:48:00,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 19:48:00,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 19:48:00,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 19:48:00,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:48:00,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:48:00,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:48:00,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:48:00,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:48:00,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:48:00,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:48:00,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:48:00,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:48:00,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:49:02,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:49:02,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:49:02,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:49:02,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:49:02,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:49:02,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:49:02,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:49:02,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:49:02,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:49:02,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:49:02,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:49:02,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:49:02,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 19:49:02,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 19:49:02,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:49:02,TRANSIT,Uppal Stadium,Nanakramguda,109
+2025-03-23 19:49:02,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:49:02,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:49:02,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 19:49:02,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 19:49:02,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:49:02,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:49:02,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:49:02,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:49:02,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:49:02,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:49:02,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:49:02,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:49:02,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:49:02,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:50:03,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:50:03,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:50:03,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:50:03,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:50:03,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:50:03,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:50:03,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:50:03,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:50:03,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:50:03,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:50:03,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:50:03,TRANSIT,Uppal Stadium,Nanakramguda,109
+2025-03-23 19:50:03,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:50:03,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:50:03,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 19:50:03,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:50:03,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:50:03,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 19:50:03,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 19:50:03,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 19:50:03,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:50:03,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:50:03,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:50:03,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:50:03,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:50:03,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:50:03,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:50:03,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:50:03,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:50:03,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:51:04,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:51:04,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:51:04,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:51:04,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:51:04,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:51:04,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:51:04,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:51:04,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:51:04,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:51:04,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:51:04,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:51:04,TRANSIT,Uppal Stadium,Nanakramguda,109
+2025-03-23 19:51:04,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:51:04,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:51:04,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:51:04,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:51:04,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 19:51:04,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 19:51:04,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 19:51:04,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 19:51:04,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:51:04,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:51:04,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:51:04,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:51:04,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:51:04,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:51:04,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:51:04,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:51:04,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:51:04,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:52:05,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:52:05,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:52:05,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:52:05,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:52:05,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:52:05,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:52:05,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:52:05,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:52:05,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:52:05,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:52:05,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:52:05,TRANSIT,Uppal Stadium,Nanakramguda,109
+2025-03-23 19:52:05,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:52:05,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 19:52:05,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:52:05,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:52:05,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:52:05,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 19:52:05,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 19:52:05,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 19:52:05,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:52:05,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:52:05,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:52:05,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:52:05,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:52:05,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:52:05,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:52:05,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:52:05,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:52:05,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:53:06,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:53:06,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:53:06,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:53:06,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:53:06,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:53:06,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:53:06,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:53:06,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:53:06,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:53:06,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:53:06,TRANSIT,Uppal Stadium,Nanakramguda,109
+2025-03-23 19:53:06,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:53:06,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:53:06,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 19:53:06,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 19:53:06,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:53:06,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:53:06,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 19:53:06,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:53:06,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 19:53:06,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:53:06,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:53:06,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:53:06,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:53:06,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:53:06,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:53:06,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:53:06,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:53:06,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:53:06,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:54:08,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:54:08,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:54:08,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:54:08,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:54:08,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:54:08,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:54:08,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:54:08,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:54:08,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:54:08,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:54:08,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 19:54:08,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 19:54:08,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:54:08,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 19:54:08,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:54:08,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:54:08,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:54:08,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:54:08,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 19:54:08,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 19:54:08,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:54:08,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:54:08,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:54:08,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:54:08,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:54:08,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:54:08,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:54:08,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:54:08,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:54:08,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:55:09,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:55:09,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:55:09,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:55:09,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:55:09,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:55:09,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:55:09,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:55:09,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:55:09,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:55:09,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:55:09,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 19:55:09,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:55:09,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:55:09,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 19:55:09,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:55:09,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 19:55:09,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 19:55:09,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:55:09,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 19:55:09,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:55:09,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:55:09,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:55:09,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:55:09,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:55:09,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:55:09,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:55:09,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:55:09,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:55:09,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:55:09,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:56:10,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:56:10,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:56:10,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:56:10,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:56:10,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:56:10,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:56:10,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:56:10,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:56:10,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:56:10,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:56:10,TRANSIT,Uppal Stadium,CBS,49
+2025-03-23 19:56:10,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:56:10,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:56:10,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 19:56:10,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 19:56:10,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:56:10,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:56:10,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 19:56:10,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 19:56:10,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 19:56:10,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:56:10,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:56:10,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:56:10,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:56:10,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:56:10,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:56:10,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:56:10,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:56:10,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:56:10,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:57:11,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:57:11,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:57:11,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:57:11,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:57:11,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:57:11,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:57:11,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:57:11,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:57:11,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:57:11,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:57:11,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 19:57:11,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:57:11,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:57:11,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:57:11,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:57:11,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 19:57:11,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 19:57:11,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:57:11,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 19:57:11,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 19:57:11,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:57:11,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:57:11,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:57:11,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:57:11,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:57:11,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:57:11,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:57:11,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:57:11,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:57:11,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:58:12,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:58:12,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:58:12,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:58:12,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:58:12,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:58:12,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:58:12,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:58:12,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:58:12,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:58:12,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:58:12,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 19:58:12,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:58:12,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:58:12,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:58:12,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 19:58:12,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:58:12,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:58:12,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 19:58:12,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 19:58:12,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 19:58:12,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:58:12,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:58:12,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:58:12,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:58:12,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:58:12,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:58:12,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:58:12,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:58:12,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:58:12,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:59:14,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 19:59:14,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 19:59:14,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:59:14,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 19:59:14,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 19:59:14,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 19:59:14,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 19:59:14,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 19:59:14,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:59:14,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 19:59:14,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 19:59:14,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 19:59:14,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 19:59:14,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 19:59:14,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 19:59:14,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 19:59:14,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 19:59:14,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 19:59:14,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 19:59:14,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 19:59:14,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 19:59:14,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 19:59:14,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 19:59:14,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 19:59:14,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 19:59:14,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 19:59:14,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 19:59:14,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 19:59:14,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 19:59:14,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:00:15,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:00:15,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:00:15,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:00:15,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:00:15,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:00:15,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:00:15,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:00:15,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:00:15,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:00:15,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:00:15,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:00:15,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:00:15,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:00:15,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 20:00:15,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:00:15,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 20:00:15,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 20:00:15,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 20:00:15,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 20:00:15,TRANSIT,Uppal Stadium,Ameerpet,39
+2025-03-23 20:00:15,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:00:15,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:00:15,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:00:15,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:00:15,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:00:15,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:00:15,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:00:15,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:00:15,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:00:15,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:01:16,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:01:16,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:01:16,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:01:16,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:01:16,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:01:16,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:01:16,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:01:16,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:01:16,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:01:16,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:01:16,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:01:16,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:01:16,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 20:01:16,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 20:01:16,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:01:16,TRANSIT,Uppal Stadium,JNTU Kukatpally,72
+2025-03-23 20:01:16,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 20:01:16,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 20:01:16,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:01:16,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 20:01:16,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:01:16,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:01:16,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:01:16,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:01:16,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:01:16,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:01:16,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:01:16,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:01:16,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:01:16,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:02:17,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:02:17,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:02:17,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:02:17,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:02:17,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:02:17,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:02:17,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:02:17,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:02:17,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:02:17,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:02:17,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 20:02:17,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:02:17,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:02:17,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 20:02:17,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 20:02:17,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:02:17,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:02:17,TRANSIT,Uppal Stadium,JNTU Kukatpally,72
+2025-03-23 20:02:17,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 20:02:17,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 20:02:17,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:02:17,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:02:17,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:02:17,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:02:17,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:02:17,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:02:17,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:02:17,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:02:17,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:02:17,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:03:19,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:03:19,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:03:19,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:03:19,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:03:19,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:03:19,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:03:19,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:03:19,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:03:19,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:03:19,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:03:19,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 20:03:19,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:03:19,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 20:03:19,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 20:03:19,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:03:19,TRANSIT,Uppal Stadium,JNTU Kukatpally,72
+2025-03-23 20:03:19,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:03:19,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 20:03:19,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 20:03:19,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:03:19,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:03:19,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:03:19,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:03:19,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:03:19,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:03:19,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:03:19,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:03:19,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:03:19,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:03:19,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:04:20,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:04:20,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:04:20,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:04:20,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:04:20,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:04:20,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:04:20,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:04:20,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:04:20,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:04:20,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:04:20,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:04:20,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 20:04:20,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:04:20,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:04:20,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:04:20,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 20:04:20,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 20:04:20,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 20:04:20,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 20:04:20,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 20:04:20,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:04:20,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:04:20,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:04:20,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:04:20,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:04:20,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:04:20,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:04:20,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:04:20,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:04:20,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:05:21,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:05:21,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:05:21,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:05:21,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:05:21,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:05:21,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:05:21,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:05:21,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:05:21,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:05:21,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:05:21,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:05:21,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:05:21,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 20:05:21,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:05:21,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 20:05:21,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 20:05:21,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 20:05:21,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:05:21,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 20:05:21,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 20:05:21,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:05:21,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:05:21,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:05:21,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:05:21,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:05:21,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:05:21,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:05:21,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:05:21,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:05:21,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:06:23,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:06:23,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:06:23,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:06:23,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:06:23,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:06:23,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:06:23,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:06:23,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:06:23,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:06:23,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:06:23,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:06:23,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:06:23,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 20:06:23,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 20:06:23,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 20:06:23,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 20:06:23,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:06:23,TRANSIT,Uppal Stadium,CBS,48
+2025-03-23 20:06:23,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 20:06:23,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 20:06:23,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:06:23,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:06:23,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:06:23,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:06:23,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:06:23,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:06:23,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:06:23,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:06:23,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:06:23,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:07:24,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:07:24,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:07:24,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:07:24,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:07:24,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:07:24,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:07:24,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:07:24,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:07:24,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:07:24,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:07:24,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:07:24,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 20:07:24,TRANSIT,Uppal Stadium,Nanakramguda,110
+2025-03-23 20:07:24,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 20:07:24,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:07:24,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 20:07:24,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:07:24,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:07:24,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 20:07:24,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 20:07:24,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:07:24,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:07:24,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:07:24,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:07:24,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:07:24,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:07:24,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:07:24,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:07:24,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:07:24,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:08:25,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:08:25,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:08:25,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:08:25,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:08:25,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:08:25,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:08:25,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:08:25,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:08:25,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:08:25,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:08:25,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:08:25,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:08:25,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:08:25,TRANSIT,Uppal Stadium,Nanakramguda,114
+2025-03-23 20:08:25,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 20:08:25,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 20:08:25,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 20:08:25,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 20:08:25,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:08:25,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 20:08:25,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:08:25,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:08:25,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:08:25,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:08:25,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:08:25,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:08:25,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:08:25,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:08:25,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:08:25,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:09:26,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:09:26,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:09:26,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:09:26,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:09:26,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:09:26,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:09:26,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:09:26,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:09:26,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:09:26,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:09:26,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:09:26,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:09:26,TRANSIT,Uppal Stadium,Nanakramguda,114
+2025-03-23 20:09:26,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 20:09:26,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 20:09:26,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 20:09:26,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:09:26,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:09:26,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 20:09:26,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 20:09:26,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:09:26,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:09:26,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:09:26,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:09:26,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:09:26,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:09:26,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:09:26,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:09:26,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:09:26,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:10:28,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:10:28,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:10:28,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:10:28,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:10:28,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:10:28,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:10:28,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:10:28,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:10:28,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:10:28,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:10:28,TRANSIT,Uppal Stadium,Nanakramguda,114
+2025-03-23 20:10:28,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 20:10:28,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:10:28,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:10:28,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:10:28,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 20:10:28,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 20:10:28,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:10:28,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 20:10:28,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 20:10:28,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:10:28,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:10:28,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:10:28,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:10:28,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:10:28,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:10:28,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:10:28,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:10:28,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:10:28,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:11:29,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:11:29,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:11:29,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:11:29,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:11:29,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:11:29,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:11:29,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:11:29,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:11:29,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:11:29,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:11:29,TRANSIT,Uppal Stadium,Nanakramguda,114
+2025-03-23 20:11:29,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:11:29,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:11:29,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:11:29,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 20:11:29,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:11:29,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 20:11:29,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 20:11:29,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 20:11:29,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 20:11:29,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:11:29,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:11:29,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:11:29,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:11:29,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:11:29,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:11:29,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:11:29,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:11:29,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:11:29,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:12:30,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:12:30,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:12:30,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:12:30,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:12:30,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:12:30,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:12:30,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:12:30,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:12:30,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:12:30,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:12:30,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:12:30,TRANSIT,Uppal Stadium,Nanakramguda,114
+2025-03-23 20:12:30,TRANSIT,Uppal Stadium,Ameerpet,39
+2025-03-23 20:12:30,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:12:30,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 20:12:30,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:12:30,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:12:30,TRANSIT,Uppal Stadium,JNTU Kukatpally,69
+2025-03-23 20:12:30,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 20:12:30,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 20:12:30,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:12:30,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:12:30,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:12:30,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:12:30,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:12:30,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:12:30,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:12:30,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:12:30,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:12:30,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:13:31,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:13:31,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:13:31,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:13:31,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:13:31,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:13:31,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:13:31,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:13:31,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:13:31,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:13:31,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:13:31,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:13:31,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:13:31,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 20:13:31,TRANSIT,Uppal Stadium,Ameerpet,39
+2025-03-23 20:13:31,TRANSIT,Uppal Stadium,Nanakramguda,114
+2025-03-23 20:13:31,TRANSIT,Uppal Stadium,JNTU Kukatpally,69
+2025-03-23 20:13:31,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 20:13:31,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 20:13:31,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:13:31,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:13:31,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:13:31,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:13:31,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:13:31,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:13:31,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:13:31,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:13:31,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:13:31,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:13:31,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:13:31,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:14:33,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:14:33,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:14:33,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:14:33,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:14:33,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:14:33,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:14:33,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:14:33,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:14:33,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:14:33,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:14:33,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:14:33,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:14:33,TRANSIT,Uppal Stadium,Nanakramguda,114
+2025-03-23 20:14:33,TRANSIT,Uppal Stadium,Ameerpet,39
+2025-03-23 20:14:33,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:14:33,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:14:33,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 20:14:33,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 20:14:33,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 20:14:33,TRANSIT,Uppal Stadium,JNTU Kukatpally,69
+2025-03-23 20:14:33,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:14:33,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:14:33,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:14:33,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:14:33,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:14:33,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:14:33,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:14:33,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:14:33,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:14:33,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:15:34,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:15:34,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:15:34,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:15:34,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:15:34,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:15:34,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:15:34,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:15:34,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:15:34,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:15:34,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:15:34,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:15:34,TRANSIT,Uppal Stadium,Nallagandla,101
+2025-03-23 20:15:34,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 20:15:34,TRANSIT,Uppal Stadium,Nanakramguda,114
+2025-03-23 20:15:34,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:15:34,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 20:15:34,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:15:34,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 20:15:34,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:15:34,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 20:15:34,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:15:34,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:15:34,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:15:34,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:15:34,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:15:34,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:15:34,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:15:34,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:15:34,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:15:34,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:16:35,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:16:35,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:16:35,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:16:35,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:16:35,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:16:35,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:16:35,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:16:35,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:16:35,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:16:35,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:16:35,TRANSIT,Uppal Stadium,Nanakramguda,109
+2025-03-23 20:16:35,TRANSIT,Uppal Stadium,Ameerpet,39
+2025-03-23 20:16:35,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:16:35,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:16:35,TRANSIT,Uppal Stadium,Khairatabad,54
+2025-03-23 20:16:35,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:16:35,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 20:16:35,TRANSIT,Uppal Stadium,Punjagutta,40
+2025-03-23 20:16:35,TRANSIT,Uppal Stadium,LB Nagar,40
+2025-03-23 20:16:35,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 20:16:35,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:16:35,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:16:35,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:16:35,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:16:35,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:16:35,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:16:35,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:16:35,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:16:35,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:16:35,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:17:36,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:17:36,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:17:36,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:17:36,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:17:36,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:17:36,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:17:36,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:17:36,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:17:36,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:17:36,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:17:36,TRANSIT,Uppal Stadium,LB Nagar,40
+2025-03-23 20:17:36,TRANSIT,Uppal Stadium,Punjagutta,40
+2025-03-23 20:17:36,TRANSIT,Uppal Stadium,Ameerpet,39
+2025-03-23 20:17:36,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 20:17:36,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:17:36,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:17:36,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 20:17:36,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:17:36,TRANSIT,Uppal Stadium,Nanakramguda,109
+2025-03-23 20:17:36,TRANSIT,Uppal Stadium,Khairatabad,54
+2025-03-23 20:17:36,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:17:36,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:17:36,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:17:36,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:17:36,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:17:36,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:17:36,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:17:36,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:17:36,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:17:36,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:18:37,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:18:37,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:18:37,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:18:37,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:18:37,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:18:37,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:18:37,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:18:37,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:18:37,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:18:37,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:18:37,TRANSIT,Uppal Stadium,LB Nagar,40
+2025-03-23 20:18:37,TRANSIT,Uppal Stadium,Ameerpet,39
+2025-03-23 20:18:37,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:18:37,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 20:18:37,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 20:18:37,TRANSIT,Uppal Stadium,Nanakramguda,109
+2025-03-23 20:18:37,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:18:37,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:18:37,TRANSIT,Uppal Stadium,Khairatabad,54
+2025-03-23 20:18:37,TRANSIT,Uppal Stadium,Punjagutta,40
+2025-03-23 20:18:37,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:18:37,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:18:37,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:18:37,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:18:37,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:18:37,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:18:37,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:18:37,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:18:37,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:18:37,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:19:38,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:19:38,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:19:38,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:19:38,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:19:38,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:19:38,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:19:38,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:19:38,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:19:38,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:19:38,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:19:38,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:19:38,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:19:38,TRANSIT,Uppal Stadium,LB Nagar,40
+2025-03-23 20:19:38,TRANSIT,Uppal Stadium,Punjagutta,40
+2025-03-23 20:19:38,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 20:19:38,TRANSIT,Uppal Stadium,Nanakramguda,109
+2025-03-23 20:19:38,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:19:38,TRANSIT,Uppal Stadium,Ameerpet,39
+2025-03-23 20:19:38,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 20:19:38,TRANSIT,Uppal Stadium,Khairatabad,54
+2025-03-23 20:19:38,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:19:38,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:19:38,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:19:38,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:19:38,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:19:38,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:19:38,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:19:38,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:19:38,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:19:38,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:20:40,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:20:40,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:20:40,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:20:40,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:20:40,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:20:40,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:20:40,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:20:40,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:20:40,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:20:40,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:20:40,TRANSIT,Uppal Stadium,Nanakramguda,109
+2025-03-23 20:20:40,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:20:40,TRANSIT,Uppal Stadium,Ameerpet,39
+2025-03-23 20:20:40,TRANSIT,Uppal Stadium,Khairatabad,54
+2025-03-23 20:20:40,TRANSIT,Uppal Stadium,LB Nagar,40
+2025-03-23 20:20:40,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:20:40,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:20:40,TRANSIT,Uppal Stadium,Punjagutta,40
+2025-03-23 20:20:40,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 20:20:40,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 20:20:40,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:20:40,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:20:40,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:20:40,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:20:40,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:20:40,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:20:40,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:20:40,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:20:40,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:20:40,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:21:41,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:21:41,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:21:41,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:21:41,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:21:41,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:21:41,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:21:41,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:21:41,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:21:41,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:21:41,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:21:41,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:21:41,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 20:21:41,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:21:41,TRANSIT,Uppal Stadium,LB Nagar,40
+2025-03-23 20:21:41,TRANSIT,Uppal Stadium,JNTU Kukatpally,69
+2025-03-23 20:21:41,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:21:41,TRANSIT,Uppal Stadium,Punjagutta,40
+2025-03-23 20:21:41,TRANSIT,Uppal Stadium,Nanakramguda,109
+2025-03-23 20:21:41,TRANSIT,Uppal Stadium,Khairatabad,54
+2025-03-23 20:21:41,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 20:21:41,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:21:41,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:21:41,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:21:41,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:21:41,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:21:41,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:21:41,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:21:41,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:21:41,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:21:41,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:22:42,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:22:42,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:22:42,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:22:42,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:22:42,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:22:42,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:22:42,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:22:42,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:22:42,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:22:42,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:22:42,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:22:42,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 20:22:42,TRANSIT,Uppal Stadium,Punjagutta,40
+2025-03-23 20:22:42,TRANSIT,Uppal Stadium,LB Nagar,40
+2025-03-23 20:22:42,TRANSIT,Uppal Stadium,Nanakramguda,109
+2025-03-23 20:22:42,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:22:42,TRANSIT,Uppal Stadium,Khairatabad,54
+2025-03-23 20:22:42,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:22:42,TRANSIT,Uppal Stadium,JNTU Kukatpally,69
+2025-03-23 20:22:42,TRANSIT,Uppal Stadium,Nallagandla,111
+2025-03-23 20:22:42,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:22:42,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:22:42,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:22:42,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:22:42,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:22:42,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:22:42,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:22:42,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:22:42,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:22:42,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:28:13,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:28:13,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:28:13,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:28:13,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:28:13,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:28:13,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:28:13,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:28:13,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:28:13,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:28:13,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:28:13,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:28:13,TRANSIT,Uppal Stadium,Nanakramguda,109
+2025-03-23 20:28:13,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:28:13,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:28:13,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:28:13,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 20:28:13,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 20:28:13,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 20:28:13,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 20:28:13,TRANSIT,Uppal Stadium,Nallagandla,106
+2025-03-23 20:28:13,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:28:13,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:28:13,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:28:13,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:28:13,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:28:13,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:28:13,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:28:13,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:28:13,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:28:13,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:29:14,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:29:14,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:29:14,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:29:14,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:29:14,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:29:14,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:29:14,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:29:14,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:29:14,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:29:14,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:29:14,TRANSIT,Uppal Stadium,Nanakramguda,109
+2025-03-23 20:29:14,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:29:14,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:29:14,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:29:14,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:29:14,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 20:29:14,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 20:29:14,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 20:29:14,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 20:29:14,TRANSIT,Uppal Stadium,Nallagandla,106
+2025-03-23 20:29:14,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:29:14,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:29:14,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:29:14,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:29:14,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:29:14,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:29:14,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:29:14,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:29:14,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:29:14,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:30:15,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:30:15,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:30:15,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:30:15,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:30:15,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:30:15,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:30:15,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:30:15,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:30:15,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:30:15,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:30:15,TRANSIT,Uppal Stadium,Nanakramguda,113
+2025-03-23 20:30:15,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:30:15,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:30:15,TRANSIT,Uppal Stadium,JNTU Kukatpally,70
+2025-03-23 20:30:15,TRANSIT,Uppal Stadium,Nallagandla,89
+2025-03-23 20:30:15,TRANSIT,Uppal Stadium,Punjagutta,41
+2025-03-23 20:30:15,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 20:30:15,TRANSIT,Uppal Stadium,Khairatabad,56
+2025-03-23 20:30:15,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 20:30:15,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:30:15,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:30:15,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:30:15,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:30:15,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:30:15,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:30:15,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 20:30:15,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:30:15,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:30:15,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:30:15,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:46:36,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 20:46:36,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:46:36,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:46:36,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 20:46:36,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 20:46:36,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 20:46:36,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 20:46:36,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 20:46:36,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:46:36,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 20:46:36,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 20:46:36,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 20:46:36,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 20:46:36,TRANSIT,Uppal Stadium,LB Nagar,40
+2025-03-23 20:46:36,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 20:46:36,TRANSIT,Uppal Stadium,JNTU Kukatpally,71
+2025-03-23 20:46:36,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 20:46:36,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 20:46:36,TRANSIT,Uppal Stadium,Nanakramguda,123
+2025-03-23 20:46:36,TRANSIT,Uppal Stadium,Nallagandla,89
+2025-03-23 20:46:36,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 20:46:36,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 20:46:36,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 20:46:36,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 20:46:36,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 20:46:36,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 20:46:36,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 20:46:36,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 20:46:36,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 20:46:36,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:04:25,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:04:25,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:04:25,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:04:25,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:04:25,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:04:25,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:04:25,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:04:25,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:04:25,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:04:25,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:04:25,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:04:25,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:04:25,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:04:25,TRANSIT,Uppal Stadium,Khairatabad,52
+2025-03-23 21:04:25,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:04:25,TRANSIT,Uppal Stadium,Nallagandla,89
+2025-03-23 21:04:25,TRANSIT,Uppal Stadium,Punjagutta,37
+2025-03-23 21:04:25,TRANSIT,Uppal Stadium,Nanakramguda,123
+2025-03-23 21:04:25,TRANSIT,Uppal Stadium,CBS,43
+2025-03-23 21:04:25,TRANSIT,Uppal Stadium,JNTU Kukatpally,78
+2025-03-23 21:04:25,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:04:25,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:04:25,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:04:25,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:04:25,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:04:25,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:04:25,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:04:25,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:04:25,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:04:25,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:37:20,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:37:20,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:37:20,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:37:20,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:37:20,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:37:20,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:37:20,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:37:20,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:37:20,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:37:20,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:37:20,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:37:20,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 21:37:20,TRANSIT,Uppal Stadium,JNTU Kukatpally,57
+2025-03-23 21:37:20,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:37:20,TRANSIT,Uppal Stadium,CBS,49
+2025-03-23 21:37:20,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:37:20,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:37:20,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:37:20,TRANSIT,Uppal Stadium,Khairatabad,54
+2025-03-23 21:37:20,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:37:20,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:37:20,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:37:20,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:37:20,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:37:20,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:37:20,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:37:20,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:37:20,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:37:20,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:37:20,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:38:22,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:38:22,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:38:22,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:38:22,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:38:22,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:38:22,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:38:22,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:38:22,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:38:22,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:38:22,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:38:22,TRANSIT,Uppal Stadium,CBS,49
+2025-03-23 21:38:22,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:38:22,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 21:38:22,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:38:22,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:38:22,TRANSIT,Uppal Stadium,JNTU Kukatpally,57
+2025-03-23 21:38:22,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:38:22,TRANSIT,Uppal Stadium,Khairatabad,54
+2025-03-23 21:38:22,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:38:22,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:38:22,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:38:22,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:38:22,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:38:22,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:38:22,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:38:22,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:38:22,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:38:22,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:38:22,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:38:22,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:39:23,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:39:23,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:39:23,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:39:23,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:39:23,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:39:23,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:39:23,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:39:23,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:39:23,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:39:23,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:39:23,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:39:23,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:39:23,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:39:23,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 21:39:23,TRANSIT,Uppal Stadium,CBS,49
+2025-03-23 21:39:23,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:39:23,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:39:23,TRANSIT,Uppal Stadium,Khairatabad,54
+2025-03-23 21:39:23,TRANSIT,Uppal Stadium,JNTU Kukatpally,57
+2025-03-23 21:39:23,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:39:23,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:39:23,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:39:23,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:39:23,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:39:23,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:39:23,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:39:23,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:39:23,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:39:23,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:39:23,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:40:24,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:40:24,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:40:24,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:40:24,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:40:24,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:40:24,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:40:24,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:40:24,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:40:24,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:40:24,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:40:24,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:40:24,TRANSIT,Uppal Stadium,JNTU Kukatpally,57
+2025-03-23 21:40:24,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 21:40:24,TRANSIT,Uppal Stadium,CBS,58
+2025-03-23 21:40:24,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:40:24,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:40:24,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:40:24,TRANSIT,Uppal Stadium,Khairatabad,54
+2025-03-23 21:40:24,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:40:24,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:40:24,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:40:24,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:40:24,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:40:24,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:40:24,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:40:24,DRIVE,Uppal Stadium,Nallagandla,75
+2025-03-23 21:40:24,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:40:24,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:40:24,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:40:24,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:41:25,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:41:25,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:41:25,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:41:25,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:41:25,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:41:25,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:41:25,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:41:25,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:41:25,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:41:25,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:41:25,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:41:25,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:41:25,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 21:41:25,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 21:41:25,TRANSIT,Uppal Stadium,JNTU Kukatpally,57
+2025-03-23 21:41:25,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:41:25,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:41:25,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:41:25,TRANSIT,Uppal Stadium,CBS,58
+2025-03-23 21:41:25,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:41:25,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:41:25,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:41:25,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:41:25,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:41:25,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:41:25,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:41:25,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:41:25,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:41:25,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:41:25,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:42:26,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:42:26,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:42:26,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:42:26,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:42:26,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:42:26,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:42:26,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:42:26,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:42:26,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:42:26,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:42:26,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:42:26,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:42:26,TRANSIT,Uppal Stadium,CBS,53
+2025-03-23 21:42:26,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 21:42:26,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:42:26,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:42:26,TRANSIT,Uppal Stadium,JNTU Kukatpally,57
+2025-03-23 21:42:26,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:42:26,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 21:42:26,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:42:26,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:42:26,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:42:26,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:42:26,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:42:26,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:42:26,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:42:26,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:42:26,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:42:26,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:42:26,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:43:28,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:43:28,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:43:28,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:43:28,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:43:28,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:43:28,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:43:28,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:43:28,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:43:28,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:43:28,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:43:28,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:43:28,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:43:28,TRANSIT,Uppal Stadium,JNTU Kukatpally,57
+2025-03-23 21:43:28,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 21:43:28,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:43:28,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 21:43:28,TRANSIT,Uppal Stadium,CBS,63
+2025-03-23 21:43:28,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:43:28,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:43:28,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:43:28,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:43:28,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:43:28,DRIVE,Uppal Stadium,Nallagandla,75
+2025-03-23 21:43:28,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:43:28,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:43:28,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:43:28,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:43:28,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:43:28,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:43:28,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:44:29,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:44:29,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:44:29,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:44:29,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:44:29,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:44:29,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:44:29,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:44:29,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:44:29,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:44:29,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:44:29,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:44:29,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:44:29,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:44:29,TRANSIT,Uppal Stadium,CBS,63
+2025-03-23 21:44:29,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 21:44:29,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:44:29,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 21:44:29,TRANSIT,Uppal Stadium,JNTU Kukatpally,57
+2025-03-23 21:44:29,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:44:29,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:44:29,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:44:29,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:44:29,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:44:29,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:44:29,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:44:29,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:44:29,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:44:29,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:44:29,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:44:29,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:45:30,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:45:30,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:45:30,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:45:30,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:45:30,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:45:30,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:45:30,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:45:30,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:45:30,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:45:30,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:45:30,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:45:30,TRANSIT,Uppal Stadium,JNTU Kukatpally,57
+2025-03-23 21:45:30,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:45:30,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:45:30,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:45:30,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:45:30,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 21:45:30,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 21:45:30,TRANSIT,Uppal Stadium,CBS,54
+2025-03-23 21:45:30,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:45:30,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:45:30,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:45:30,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:45:30,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:45:30,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:45:30,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:45:30,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:45:30,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:45:30,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:45:30,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:46:31,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:46:31,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:46:31,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:46:31,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:46:31,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:46:31,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:46:31,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:46:31,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:46:31,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:46:31,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:46:31,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:46:31,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:46:31,TRANSIT,Uppal Stadium,JNTU Kukatpally,57
+2025-03-23 21:46:31,TRANSIT,Uppal Stadium,CBS,54
+2025-03-23 21:46:31,TRANSIT,Uppal Stadium,Punjagutta,38
+2025-03-23 21:46:31,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:46:31,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:46:31,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:46:31,TRANSIT,Uppal Stadium,Khairatabad,53
+2025-03-23 21:46:31,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:46:31,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:46:31,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:46:31,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:46:31,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:46:31,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:46:31,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:46:31,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:46:31,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:46:31,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:46:31,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:47:33,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:47:33,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:47:33,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:47:33,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:47:33,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:47:33,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:47:33,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:47:33,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:47:33,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:47:33,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:47:33,TRANSIT,Uppal Stadium,CBS,63
+2025-03-23 21:47:33,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:47:33,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:47:33,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:47:33,TRANSIT,Uppal Stadium,Punjagutta,43
+2025-03-23 21:47:33,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:47:33,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:47:33,TRANSIT,Uppal Stadium,JNTU Kukatpally,65
+2025-03-23 21:47:33,TRANSIT,Uppal Stadium,Khairatabad,51
+2025-03-23 21:47:33,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:47:33,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:47:33,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:47:33,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:47:33,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:47:33,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:47:33,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:47:33,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:47:33,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:47:33,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:47:33,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:48:34,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:48:34,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:48:34,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:48:34,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:48:34,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:48:34,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:48:34,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:48:34,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:48:34,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:48:34,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:48:34,TRANSIT,Uppal Stadium,CBS,63
+2025-03-23 21:48:34,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:48:34,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:48:34,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:48:34,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:48:34,TRANSIT,Uppal Stadium,Khairatabad,51
+2025-03-23 21:48:34,TRANSIT,Uppal Stadium,JNTU Kukatpally,65
+2025-03-23 21:48:34,TRANSIT,Uppal Stadium,Punjagutta,43
+2025-03-23 21:48:34,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:48:34,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:48:34,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:48:34,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:48:34,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:48:34,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:48:34,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:48:34,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:48:34,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:48:34,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:48:34,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:48:34,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:49:35,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:49:35,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:49:35,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:49:35,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:49:35,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:49:35,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:49:35,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:49:35,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:49:35,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:49:35,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:49:35,TRANSIT,Uppal Stadium,CBS,63
+2025-03-23 21:49:35,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:49:35,TRANSIT,Uppal Stadium,JNTU Kukatpally,65
+2025-03-23 21:49:35,TRANSIT,Uppal Stadium,Punjagutta,43
+2025-03-23 21:49:35,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:49:35,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:49:35,TRANSIT,Uppal Stadium,Khairatabad,51
+2025-03-23 21:49:35,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:49:35,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:49:35,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:49:35,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:49:35,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:49:35,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:49:35,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:49:35,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:49:35,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:49:35,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:49:35,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:49:35,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:49:35,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:50:36,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:50:36,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:50:36,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:50:36,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:50:36,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:50:36,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:50:36,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:50:36,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:50:36,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:50:36,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:50:36,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:50:36,TRANSIT,Uppal Stadium,Punjagutta,43
+2025-03-23 21:50:36,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:50:36,TRANSIT,Uppal Stadium,JNTU Kukatpally,65
+2025-03-23 21:50:36,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:50:36,TRANSIT,Uppal Stadium,CBS,63
+2025-03-23 21:50:36,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:50:36,TRANSIT,Uppal Stadium,Khairatabad,51
+2025-03-23 21:50:36,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:50:36,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:50:36,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:50:36,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:50:36,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:50:36,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:50:36,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:50:36,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:50:36,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:50:36,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:50:36,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:50:36,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:51:37,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:51:37,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:51:37,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:51:37,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:51:37,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:51:37,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:51:37,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:51:37,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:51:37,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:51:37,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:51:37,TRANSIT,Uppal Stadium,JNTU Kukatpally,65
+2025-03-23 21:51:37,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:51:37,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:51:37,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:51:37,TRANSIT,Uppal Stadium,Khairatabad,51
+2025-03-23 21:51:37,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:51:37,TRANSIT,Uppal Stadium,Punjagutta,43
+2025-03-23 21:51:37,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:51:37,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:51:37,TRANSIT,Uppal Stadium,CBS,63
+2025-03-23 21:51:37,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:51:37,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:51:37,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:51:37,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:51:37,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:51:37,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:51:37,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:51:37,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:51:37,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:51:37,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:52:39,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:52:39,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:52:39,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:52:39,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:52:39,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:52:39,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:52:39,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:52:39,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:52:39,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:52:39,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:52:39,TRANSIT,Uppal Stadium,Punjagutta,43
+2025-03-23 21:52:39,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:52:39,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:52:39,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:52:39,TRANSIT,Uppal Stadium,CBS,63
+2025-03-23 21:52:39,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:52:39,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:52:39,TRANSIT,Uppal Stadium,Khairatabad,51
+2025-03-23 21:52:39,TRANSIT,Uppal Stadium,JNTU Kukatpally,65
+2025-03-23 21:52:39,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:52:39,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:52:39,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:52:39,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:52:39,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:52:39,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:52:39,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:52:39,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:52:39,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:52:39,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:52:39,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:53:40,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:53:40,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:53:40,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:53:40,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:53:40,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:53:40,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:53:40,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:53:40,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:53:40,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:53:40,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:53:40,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:53:40,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:53:40,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:53:40,TRANSIT,Uppal Stadium,JNTU Kukatpally,65
+2025-03-23 21:53:40,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:53:40,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 21:53:40,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:53:40,TRANSIT,Uppal Stadium,Khairatabad,51
+2025-03-23 21:53:40,TRANSIT,Uppal Stadium,CBS,63
+2025-03-23 21:53:40,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:53:40,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:53:40,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:53:40,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:53:40,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:53:40,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:53:40,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:53:40,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:53:40,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:53:40,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:53:40,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:54:41,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:54:41,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:54:41,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:54:41,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:54:41,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:54:41,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:54:41,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:54:41,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:54:41,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:54:41,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:54:41,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:54:41,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:54:41,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:54:41,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:54:41,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 21:54:41,TRANSIT,Uppal Stadium,JNTU Kukatpally,65
+2025-03-23 21:54:41,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:54:41,TRANSIT,Uppal Stadium,CBS,63
+2025-03-23 21:54:41,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:54:41,TRANSIT,Uppal Stadium,Khairatabad,51
+2025-03-23 21:54:41,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:54:41,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:54:41,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:54:41,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:54:41,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:54:41,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:54:41,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:54:41,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:54:41,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:54:41,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:55:42,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:55:42,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:55:42,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:55:42,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:55:42,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:55:42,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:55:42,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:55:42,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:55:42,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:55:42,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:55:42,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:55:42,TRANSIT,Uppal Stadium,JNTU Kukatpally,65
+2025-03-23 21:55:42,TRANSIT,Uppal Stadium,Khairatabad,51
+2025-03-23 21:55:42,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:55:42,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 21:55:42,TRANSIT,Uppal Stadium,CBS,63
+2025-03-23 21:55:42,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:55:42,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:55:42,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:55:42,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:55:42,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:55:42,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:55:42,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:55:42,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:55:42,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:55:42,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:55:42,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:55:42,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:55:42,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:55:42,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:56:43,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:56:43,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:56:43,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:56:43,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:56:43,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:56:43,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:56:43,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:56:43,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:56:43,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:56:43,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:56:43,TRANSIT,Uppal Stadium,JNTU Kukatpally,65
+2025-03-23 21:56:43,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:56:43,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:56:43,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:56:43,TRANSIT,Uppal Stadium,CBS,63
+2025-03-23 21:56:43,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:56:43,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:56:43,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:56:43,TRANSIT,Uppal Stadium,Khairatabad,51
+2025-03-23 21:56:43,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 21:56:43,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:56:43,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:56:43,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:56:43,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:56:43,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:56:43,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:56:43,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:56:43,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:56:43,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:56:43,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:57:45,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:57:45,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:57:45,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:57:45,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:57:45,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:57:45,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:57:45,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:57:45,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:57:45,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:57:45,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:57:45,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 21:57:45,TRANSIT,Uppal Stadium,CBS,63
+2025-03-23 21:57:45,TRANSIT,Uppal Stadium,Khairatabad,51
+2025-03-23 21:57:45,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:57:45,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:57:45,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:57:45,TRANSIT,Uppal Stadium,JNTU Kukatpally,65
+2025-03-23 21:57:45,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:57:45,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:57:45,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:57:45,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:57:45,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:57:45,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:57:45,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:57:45,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:57:45,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:57:45,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:57:45,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:57:45,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:57:45,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:58:46,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:58:46,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:58:46,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:58:46,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:58:46,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:58:46,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:58:46,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:58:46,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:58:46,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 21:58:46,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:58:46,TRANSIT,Uppal Stadium,Khairatabad,51
+2025-03-23 21:58:46,TRANSIT,Uppal Stadium,JNTU Kukatpally,65
+2025-03-23 21:58:46,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:58:46,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:58:46,TRANSIT,Uppal Stadium,CBS,63
+2025-03-23 21:58:46,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 21:58:46,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:58:46,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:58:46,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:58:46,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:58:46,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:58:46,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 21:58:46,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:58:46,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:58:46,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:58:46,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:58:46,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:58:46,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:58:46,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:58:46,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:59:47,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 21:59:47,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 21:59:47,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:59:47,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:59:47,TWO_WHEELER,Uppal Stadium,Nallagandla,74
+2025-03-23 21:59:47,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 21:59:47,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:59:47,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 21:59:47,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 21:59:47,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 21:59:47,TRANSIT,Uppal Stadium,CBS,63
+2025-03-23 21:59:47,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 21:59:47,TRANSIT,Uppal Stadium,Khairatabad,51
+2025-03-23 21:59:47,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 21:59:47,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 21:59:47,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 21:59:47,TRANSIT,Uppal Stadium,JNTU Kukatpally,65
+2025-03-23 21:59:47,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 21:59:47,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 21:59:47,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 21:59:47,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 21:59:47,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 21:59:47,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 21:59:47,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 21:59:47,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 21:59:47,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 21:59:47,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 21:59:47,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 21:59:47,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 21:59:47,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 22:00:48,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 22:00:48,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 22:00:48,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 22:00:48,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 22:00:48,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 22:00:48,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 22:00:48,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 22:00:48,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 22:00:48,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 22:00:48,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 22:00:48,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 22:00:48,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 22:00:48,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 22:00:48,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 22:00:48,TRANSIT,Uppal Stadium,CBS,51
+2025-03-23 22:00:48,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 22:00:48,TRANSIT,Uppal Stadium,Khairatabad,51
+2025-03-23 22:00:48,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 22:00:48,TRANSIT,Uppal Stadium,JNTU Kukatpally,58
+2025-03-23 22:00:48,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 22:00:48,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 22:00:48,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 22:00:48,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 22:00:48,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 22:00:48,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 22:00:48,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 22:00:48,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 22:00:48,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 22:00:48,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 22:00:48,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 22:01:49,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 22:01:49,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 22:01:49,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 22:01:49,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 22:01:49,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 22:01:49,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 22:01:49,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 22:01:49,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 22:01:49,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 22:01:49,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 22:01:49,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 22:01:49,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 22:01:49,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 22:01:49,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 22:01:49,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 22:01:49,TRANSIT,Uppal Stadium,JNTU Kukatpally,58
+2025-03-23 22:01:49,TRANSIT,Uppal Stadium,Nanakramguda,119
+2025-03-23 22:01:49,TRANSIT,Uppal Stadium,CBS,51
+2025-03-23 22:01:49,TRANSIT,Uppal Stadium,Khairatabad,51
+2025-03-23 22:01:49,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 22:01:49,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 22:01:49,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 22:01:49,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 22:01:49,DRIVE,Uppal Stadium,Nallagandla,75
+2025-03-23 22:01:49,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 22:01:49,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 22:01:49,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 22:01:49,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 22:01:49,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 22:01:49,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 22:02:51,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 22:02:51,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 22:02:51,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 22:02:51,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 22:02:51,TWO_WHEELER,Uppal Stadium,Nallagandla,74
+2025-03-23 22:02:51,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 22:02:51,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 22:02:51,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 22:02:51,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 22:02:51,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 22:02:51,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 22:02:51,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 22:02:51,TRANSIT,Uppal Stadium,Khairatabad,51
+2025-03-23 22:02:51,TRANSIT,Uppal Stadium,JNTU Kukatpally,58
+2025-03-23 22:02:51,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 22:02:51,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 22:02:51,TRANSIT,Uppal Stadium,Punjagutta,39
+2025-03-23 22:02:51,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 22:02:51,TRANSIT,Uppal Stadium,CBS,51
+2025-03-23 22:02:51,TRANSIT,Uppal Stadium,Nanakramguda,232
+2025-03-23 22:02:51,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 22:02:51,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 22:02:51,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 22:02:51,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 22:02:51,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 22:02:51,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 22:02:51,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 22:02:51,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 22:02:51,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 22:02:51,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 22:03:52,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 22:03:52,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 22:03:52,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 22:03:52,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 22:03:52,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 22:03:52,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 22:03:52,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 22:03:52,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 22:03:52,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 22:03:52,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 22:03:52,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 22:03:52,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 22:03:52,TRANSIT,Uppal Stadium,Punjagutta,40
+2025-03-23 22:03:52,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 22:03:52,TRANSIT,Uppal Stadium,JNTU Kukatpally,58
+2025-03-23 22:03:52,TRANSIT,Uppal Stadium,Nanakramguda,232
+2025-03-23 22:03:52,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 22:03:52,TRANSIT,Uppal Stadium,CBS,51
+2025-03-23 22:03:52,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 22:03:52,TRANSIT,Uppal Stadium,Khairatabad,54
+2025-03-23 22:03:52,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 22:03:52,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 22:03:52,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 22:03:52,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 22:03:52,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 22:03:52,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 22:03:52,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 22:03:52,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 22:03:52,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 22:03:52,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 22:04:53,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 22:04:53,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 22:04:53,TWO_WHEELER,Uppal Stadium,Nallagandla,71
+2025-03-23 22:04:53,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 22:04:53,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 22:04:53,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 22:04:53,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 22:04:53,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 22:04:53,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 22:04:53,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 22:04:53,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 22:04:53,TRANSIT,Uppal Stadium,JNTU Kukatpally,58
+2025-03-23 22:04:53,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 22:04:53,TRANSIT,Uppal Stadium,Punjagutta,40
+2025-03-23 22:04:53,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 22:04:53,TRANSIT,Uppal Stadium,Khairatabad,54
+2025-03-23 22:04:53,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 22:04:53,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 22:04:53,TRANSIT,Uppal Stadium,Nanakramguda,232
+2025-03-23 22:04:53,TRANSIT,Uppal Stadium,CBS,51
+2025-03-23 22:04:53,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 22:04:53,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 22:04:53,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 22:04:53,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 22:04:53,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 22:04:53,DRIVE,Uppal Stadium,Nallagandla,75
+2025-03-23 22:04:53,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 22:04:53,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 22:04:53,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 22:04:53,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 22:05:54,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 22:05:54,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 22:05:54,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 22:05:54,TWO_WHEELER,Uppal Stadium,Nallagandla,74
+2025-03-23 22:05:54,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 22:05:54,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 22:05:54,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 22:05:54,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 22:05:54,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 22:05:54,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 22:05:54,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 22:05:54,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 22:05:54,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 22:05:54,TRANSIT,Uppal Stadium,Punjagutta,40
+2025-03-23 22:05:54,TRANSIT,Uppal Stadium,CBS,51
+2025-03-23 22:05:54,TRANSIT,Uppal Stadium,JNTU Kukatpally,58
+2025-03-23 22:05:54,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 22:05:54,TRANSIT,Uppal Stadium,Khairatabad,54
+2025-03-23 22:05:54,TRANSIT,Uppal Stadium,Nallagandla,127
+2025-03-23 22:05:54,TRANSIT,Uppal Stadium,Nanakramguda,232
+2025-03-23 22:05:54,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 22:05:54,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 22:05:54,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 22:05:54,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 22:05:54,DRIVE,Uppal Stadium,Khairatabad,28
+2025-03-23 22:05:54,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 22:05:54,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 22:05:54,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 22:05:54,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 22:05:54,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 22:06:55,TWO_WHEELER,Uppal Stadium,LB Nagar,19
+2025-03-23 22:06:55,TWO_WHEELER,Uppal Stadium,CBS,24
+2025-03-23 22:06:55,TWO_WHEELER,Uppal Stadium,Parade Ground,19
+2025-03-23 22:06:55,TWO_WHEELER,Uppal Stadium,Khairatabad,28
+2025-03-23 22:06:55,TWO_WHEELER,Uppal Stadium,Ameerpet,38
+2025-03-23 22:06:55,TWO_WHEELER,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 22:06:55,TWO_WHEELER,Uppal Stadium,Punjagutta,32
+2025-03-23 22:06:55,TWO_WHEELER,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 22:06:55,TWO_WHEELER,Uppal Stadium,Nanakramguda,64
+2025-03-23 22:06:55,TWO_WHEELER,Uppal Stadium,Nallagandla,74
+2025-03-23 22:06:55,TRANSIT,Uppal Stadium,CBS,51
+2025-03-23 22:06:55,TRANSIT,Uppal Stadium,Parade Ground,25
+2025-03-23 22:06:55,TRANSIT,Uppal Stadium,Ghatkesar ORR Toll,63
+2025-03-23 22:06:55,TRANSIT,Uppal Stadium,Ameerpet,38
+2025-03-23 22:06:55,TRANSIT,Uppal Stadium,LB Nagar,42
+2025-03-23 22:06:55,TRANSIT,Uppal Stadium,JNTU Kukatpally,58
+2025-03-23 22:06:55,TRANSIT,Uppal Stadium,Punjagutta,40
+2025-03-23 22:06:55,TRANSIT,Uppal Stadium,Nallagandla,117
+2025-03-23 22:06:55,TRANSIT,Uppal Stadium,Khairatabad,55
+2025-03-23 22:06:55,TRANSIT,Uppal Stadium,Nanakramguda,232
+2025-03-23 22:06:55,DRIVE,Uppal Stadium,Ghatkesar ORR Toll,31
+2025-03-23 22:06:55,DRIVE,Uppal Stadium,Punjagutta,32
+2025-03-23 22:06:55,DRIVE,Uppal Stadium,Nallagandla,72
+2025-03-23 22:06:55,DRIVE,Uppal Stadium,Ameerpet,38
+2025-03-23 22:06:55,DRIVE,Uppal Stadium,Nanakramguda,64
+2025-03-23 22:06:55,DRIVE,Uppal Stadium,CBS,25
+2025-03-23 22:06:55,DRIVE,Uppal Stadium,Parade Ground,19
+2025-03-23 22:06:55,DRIVE,Uppal Stadium,LB Nagar,21
+2025-03-23 22:06:55,DRIVE,Uppal Stadium,JNTU Kukatpally,53
+2025-03-23 22:06:55,DRIVE,Uppal Stadium,Khairatabad,28
